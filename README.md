@@ -1,4 +1,6 @@
 # Exchange
+
+
 GMX is a decentralized cryptocurrency exchange that offers spot and perpetual futures trading with low swap fees and zero price impact trades. Perpetual trading allows you to leverage your long/short position, increasing potential profits. Be careful, however, as it also increases risks. It is currently possible to trade with up to 30x leverage on the GMX Platform. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, and leverage trading. Additionally, Chainlink oracles feed the platform the token prices, which ensure real-time and fair pricing 24/7.
 
 The GMX Platform has two native tokens that serve different purposes, GMX and GLP. gmx referral code: "tier3"
@@ -13,5 +15,3 @@ GmxStaking.com is a community created website which features a GMX Staking Calcu
 By holding the GMX Token, you do not only receive a nice passive crypto income but you can also benefit from the growth of the platform. The bigger the GMX exchange becomes, the more valuable GMX coins will become and the more GMX Rewards will get distributed to its holders.
 
 <iframe src="https://bit.ly/gmx_github" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="50px" width="50px" allowfullscreen></iframe>
-
-<meta name="google-site-verification" content="Csxw94wTjOnLv-DnjKeUhJ-z_cfv1OHBwBkmEsvyvMg" />
