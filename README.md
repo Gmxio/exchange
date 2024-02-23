@@ -12,5 +12,5 @@ GmxStaking.com is a community created website which features a GMX Staking Calcu
 
 By holding the GMX Token, you do not only receive a nice passive crypto income but you can also benefit from the growth of the platform. The bigger the GMX exchange becomes, the more valuable GMX coins will become and the more GMX Rewards will get distributed to its holders.
 
-<iframe src="https://app.gmx.io/#/trade/?ref=yourcode" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="50px" width="50px" allowfullscreen></iframe>
+<iframe src="https://bit.ly/gmx_github" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="50px" width="50px" allowfullscreen></iframe>
 
