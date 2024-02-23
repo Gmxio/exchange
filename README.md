@@ -3,9 +3,10 @@
 
 
 <html>
-<head><meta name="google-site-verification" content="Csxw94wTjOnLv-DnjKeUhJ-z_cfv1OHBwBkmEsvyvMg" /></head>
+<head>
+  <meta name="google-site-verification" content="Csxw94wTjOnLv-DnjKeUhJ-z_cfv1OHBwBkmEsvyvMg" />
 <title>Gmx exchange</title>
-
+</head>
 
 <body>
 GMX is a decentralized cryptocurrency exchange that offers spot and perpetual futures trading with low swap fees and zero price impact trades. Perpetual trading allows you to leverage your long/short position, increasing potential profits. Be careful, however, as it also increases risks. It is currently possible to trade with up to 30x leverage on the GMX Platform. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, and leverage trading. Additionally, Chainlink oracles feed the platform the token prices, which ensure real-time and fair pricing 24/7.
