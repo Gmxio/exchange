@@ -5,7 +5,7 @@
 <html>
 <head>
   <meta name="google-site-verification" content="Csxw94wTjOnLv-DnjKeUhJ-z_cfv1OHBwBkmEsvyvMg" />
-<title>Gmx exchange</title>
+<title> Gmx exchange </title>
 </head>
 
 <body>
