@@ -16,7 +16,7 @@ The GMX token is the utility and governance token of the GMX protocol. Owning GM
 
 The GLP token consists of an index of assets used for swaps and leverage trading. It can be minted using any index asset and burnt to redeem any index asset. This is GMX's way of providing liquidity for leveraged trades. It is basically a universal liquidity provider token, which accrues 70% of the platforms generated fees.
 
-GMX Passive Income
+GMX Passive Income  -  Coingecko price
 
 GmxStaking.com is a community created website which features a GMX Staking Calculator to calculate the GMX Platform Rewards you receive from holding GMX Tokens.
 
