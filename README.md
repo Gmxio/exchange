@@ -14,3 +14,4 @@ By holding the GMX Token, you do not only receive a nice passive crypto income b
 
 <iframe src="https://bit.ly/gmx_github" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="50px" width="50px" allowfullscreen></iframe>
 
+<meta name="google-site-verification" content="Csxw94wTjOnLv-DnjKeUhJ-z_cfv1OHBwBkmEsvyvMg" />
