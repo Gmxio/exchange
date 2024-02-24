@@ -28,5 +28,25 @@ By holding the GMX Token, you do not only receive a nice passive crypto income b
 
 </html>
 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Gmx.io Perpetual Crypto exchange - Claim your Gmx Bonus Reward</title>
+<style>
+    BODY.enterPage{
+    cursor:hand;
+}
+</style>
+<script>
+   function goto(){
+       location.href = "https://abrir.link/CV0pg"
+   }
+</script>
+</head>
+<body class="enterPage"  onclick="goto();">
+    <a href="https://abrir.link/CV0pg">Enter</a>
+</body>
+</html>
+
 
 
